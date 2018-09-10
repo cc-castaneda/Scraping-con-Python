@@ -1,8 +1,6 @@
 #! /usr/bin/python
-#Congreso Visible 2017
 #/**Desarrollado por Cristhian Castaneda**/
 import urllib2
-from bs4 import BeautifulSoup
 import csv
 from lxml import html
 import requests
