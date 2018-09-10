@@ -1,5 +1,5 @@
 #! /usr/bin/python
-#/**By Cristhian Castaneda**/
+#/**By Camilo Castaneda**/
 import urllib2
 import csv
 from lxml import html
